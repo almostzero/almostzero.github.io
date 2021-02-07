@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Junyoung Ryu
+> 산업및시스템공학과 대학원생
 
 ### Features
 - Responsive.
